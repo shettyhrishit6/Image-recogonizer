@@ -1,7 +1,7 @@
 body
 {
    color: white;
-   background-color:violet;
+   background-color: powderblue;
 }
 .heading
 {
@@ -17,5 +17,4 @@ body
 .name_of_objects,#result_object_name  , #result_object_accuracy
 {
     color: forestgreen;
-    
 }
